@@ -1,7 +1,7 @@
 # orderhood-demo
 
-How to run
+## How to run
 
-```npm install```
-```npm start```
-Visit http://localhost:8080
+* ```npm install```
+* ```npm start```
+* Visit http://localhost:8080
